@@ -1,2 +1,2 @@
 # ApellidoNombre_Fibonacci
-Tercer script solicitado que geenra numeros de fibonacci  yy los suma , con un limite de 45.
+Tercer script solicitado que genera numeros de fibonacci  ylos suma , con un limite de 45.
